@@ -1,0 +1,26 @@
+property_id,property_name,category,city,State
+16558,Atliq Grands,Luxury,Delhi,Delhi
+16559,Atliq Exotica,Luxury,Mumbai,Maharastra
+16560,Atliq City,Business,Delhi,Delhi
+16561,Atliq Blu,Luxury,Delhi,Delhi
+16562,Atliq Bay,Luxury,Delhi,Delhi
+16563,Atliq Palace,Business,Delhi,Delhi
+17558,Atliq Grands,Luxury,Mumbai,Maharastra
+17559,Atliq Exotica,Luxury,Mumbai,Maharastra
+17560,Atliq City,Business,Mumbai,Maharastra
+17561,Atliq Blu,Luxury,Mumbai,Maharastra
+17562,Atliq Bay,Luxury,Mumbai,Maharastra
+17563,Atliq Palace,Business,Mumbai,Maharastra
+18558,Atliq Grands,Luxury,Hyderabad,Telangana
+18559,Atliq Exotica,Luxury,Hyderabad,Telangana
+18560,Atliq City,Business,Hyderabad,Telangana
+18561,Atliq Blu,Luxury,Hyderabad,Telangana
+18562,Atliq Bay,Luxury,Hyderabad,Telangana
+18563,Atliq Palace,Business,Hyderabad,Telangana
+19558,Atliq Grands,Luxury,Bangalore,Karnataka
+19559,Atliq Exotica,Luxury,Bangalore,Karnataka
+19560,Atliq City,Business,Bangalore,Karnataka
+19561,Atliq Blu,Luxury,Bangalore,Karnataka
+19562,Atliq Bay,Luxury,Bangalore,Karnataka
+19563,Atliq Palace,Business,Bangalore,Karnataka
+17564,Atliq Seasons,Business,Mumbai,Maharastra
